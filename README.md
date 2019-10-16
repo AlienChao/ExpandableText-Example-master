@@ -1,5 +1,5 @@
 # ExpandableText-Example
-
+# 还有自带缩展动画功能的LinearLayout
 
 ----------
 ## 一.简介
