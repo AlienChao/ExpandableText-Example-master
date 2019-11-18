@@ -1,3 +1,4 @@
+# 两种功能， 1一个是仿小红书的展开收起的TextView 2 一个是 展开收起的LinearLayout
 # ExpandableText-Example
 # 还有自带缩展动画功能的LinearLayout
 
